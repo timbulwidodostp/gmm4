@@ -1,6 +1,8 @@
 # gmm4
 GMM (Generalized Method of Moments) estimation Use gmm4 (momentfit) With (In) R Software
 
+https://www.youtube.com/watch?v=J3NCTLZNFCk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
